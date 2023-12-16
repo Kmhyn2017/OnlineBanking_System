@@ -11,7 +11,7 @@ A simple online banking simulation website created using ASP.NET Framework with 
 
 3. Resend activation email, if requested
 
-4.Secure forgot password reset using an OTP (One Time Password) system
+4. Secure forgot password reset using an OTP (One Time Password) system
 
 5. Live form validation before submit
 
